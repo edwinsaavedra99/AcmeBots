@@ -125,7 +125,7 @@
                     <table  align="center">
                         <tr>
                             <th><div  class="modal-body" >
-                                <img src="https://i2.wp.com/wp.laravel-news.com/wp-content/uploads/2017/07/roles-permissions.png?resize=2200%2C1125"  style="width:550px;height:350px;"> 
+                                <img src="http://www.ruvaseguridad.com/blog/control-de-accesos/control-de-accesos.jpg"  style="width:550px;height:350px;"> 
                     	        </div>
                     	    </th>
                             <th>

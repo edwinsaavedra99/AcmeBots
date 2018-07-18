@@ -102,7 +102,7 @@
             </div>
             <br>
             <table class="table table-striped table-hover table-bordered">
-               Error ya existe un correo registrado <a href="/users/add"> Intentar de nuevo </a> 
+               Error ya existe un correo registrado <big> <u> <strong> <a href="/users/add"> Intentar de nuevo </a> </strong></u></big>.
             </table>
 			 <div class="clearfix">
                 <div class="hint-text">Acme<b> Bots.</b></div>

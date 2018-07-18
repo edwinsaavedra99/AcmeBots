@@ -56,7 +56,7 @@ public class UserControllerAdd extends HttpServlet {
 		 resp.setContentType("text/html"); resp.setCharacterEncoding("UTF-8");
 		PersistenceManager pm = PMF.get().getPersistenceManager();
 		String correo = req.getParameter("email");
-		String query1 = "select from " + User.class.getName() + " where email == "+correo.substring(0,correo.indexOf("@"));
+		String query1 = "select from " + User.class.getName() + " where email == '"+correo+"'";
 		List<User> userSearch = (List<User>) pm.newQuery(query1).execute();
 		if(userSearch.isEmpty()) {
 			User u=new User(

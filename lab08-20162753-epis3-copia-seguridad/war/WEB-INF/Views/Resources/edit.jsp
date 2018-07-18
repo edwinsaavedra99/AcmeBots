@@ -126,7 +126,7 @@
                         	<tr>
                             	<th>
                             		<div  class="modal-body" >
-                                	<img src="https://elearningindustry.com/wp-content/uploads/2012/10/elearning-101-part-3-development-roles.jpg"  style="width:550px;height:350px;"> 
+                                	<img src="https://www.promega.es/-/media/images/resources/resources-home.jpg?h=256&la=es-ES&w=512"  style="width:550px;height:350px;"> 
                             		</div>
                             	</th>
                                 <th>

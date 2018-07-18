@@ -125,7 +125,7 @@
                     <table  align="center">
                         <tr>
                             <th><div  class="modal-body" >
-                                <img src="https://i2.wp.com/wp.laravel-news.com/wp-content/uploads/2017/07/roles-permissions.png?resize=2200%2C1125"  style="width:550px;height:350px;"> 
+                                <img src="https://www.surreyschools.ca/sites/7V5JQUO4HC/PublishingImages/vccexpo2015.png"  style="width:550px;height:450px;"> 
                     	        </div>
                     	    </th>
                             <th>
